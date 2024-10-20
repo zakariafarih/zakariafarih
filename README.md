@@ -3,13 +3,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Pokemon Game as Final Project**
 
 - 🌱 I’m currently learning **Spring, TypeScript, NodeJs, etc...**
 
 - 👯 I’m looking to collaborate on **Other interesting projects**
 
-- 💬 Ask me about **Java,JavaFX, HTML/CSS, JS, React, etc ...**
+- 💬 Ask me about **Java,JavaFX, JS, React, Spring boot, TS, Python, Web Scraping, etc ...**
 
 - 📫 How to reach me **zakariafarih142@gmail.com**
 

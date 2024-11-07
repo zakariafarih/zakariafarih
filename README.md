@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on multiple projects like a whatsapp clone, projects that include a java spring backend, developping apps for my internship using React, Elixir, etc. <br>👯 I’m looking to collaborate on any project, if the project contains a language i don't manage well, I'm ready to learn it / take courses on it<br>🤝 I’m looking for help with projects around AI, Hobby projects, Creative new features, useful tools for programmers all over the world <br>🌱 I’m currently learning Java spring boot, i would be trying to pass the Oracle certification exam, also i m learning Elixir and further enhancing my knowledge in React / TS<br>💬 Ask me about anything, if you have an error that you can't solve, maybe we can solve it together :D . <br>⚡ Fun fact -> i don't sleep, i work a lot but somehow still train everyday and go out on weekends :D 
 
+<br>
+My github commit history ain't accurate, i work with Bitbucket for work related projects :D
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Zakaria%20Farih) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zakariafarih142) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakaria%20Farih) 

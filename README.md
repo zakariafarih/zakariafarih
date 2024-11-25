@@ -24,6 +24,7 @@ I am aiming to be active on stackoverflow / Medium to help future programmers wi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllMightyyyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

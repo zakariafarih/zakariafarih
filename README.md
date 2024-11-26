@@ -9,7 +9,7 @@ My github commit history ain't accurate, i work with Bitbucket for work related 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Zakaria%20Farih) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zakariafarih142) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakaria%20Farih) 
 
 I am aiming to be active on stackoverflow / Medium to help future programmers with problems i faced and i wasted too much time searching to fix : 
--> This is my Profile https://medium.com/@zakariafarih142
+-> This is [my Profile](https://medium.com/@zakariafarih142)
 1. [JWT, OAuth2, and Spring Boot: A Step-by-Step Guide to Securing Applications](https://medium.com/@zakariafarih142/building-a-secure-spring-boot-application-with-jwt-and-oauth2-authentication-541c0c63ff15)
 2. [CSV Data Access and Parsing Options](https://medium.com/@zakariafarih142/mastering-csv-parsing-in-java-comprehensive-methods-and-best-practices-a3b8d0514edf)
 3. [JSON Data Access and Handling](https://medium.com/@zakariafarih142/a-practical-guide-to-json-handling-in-java-libraries-possibilities-and-best-practices-d1ce935604f5)

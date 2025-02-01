@@ -19,11 +19,19 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake-dark.svg
+            dist/ocean.gif
 
-            - name: Commit and push
-            env:
-              GH_TOKEN: ${{ secrets.GH_TOKEN }}
-            run: |
-              git config --global user.name "github-actions"
+      - name: Verify Generated Files
+        run: |
+          ls -l dist || echo "No files generated"
+
+      - name: Commit and push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add dist/github-snake.svg dist/github-snake-dark.svg dist/ocean.gif || echo "No files to commit"
+          git commit -m "Updated Snake animation" || echo "No changes to commit"
+          git push

@@ -16,11 +16,11 @@ jobs:
       - name: Update README with YouTube videos
         uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: "UCY0EqBS4AzvMnAdXJ3VcODw"
-          api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          max_videos: 6  # Adjust the number of videos to display
-          output_file: "README.md"  # Update README file
-          format: "markdown"
+          channel_id: "UCY0EqBS4AzvMnAdXJ3VcODw"  # Your YouTube Channel ID
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}  # Correct key name
+          max_videos: 6  # Adjust number of videos
+          readme_path: "README.md"  # Specifies the README file
+          comment_tag_name: "YOUTUBE-CARDS"  # Matches the tags in README
 
       - name: Commit changes
         run: |

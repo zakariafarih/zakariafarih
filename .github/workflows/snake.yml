@@ -27,9 +27,3 @@ jobs:
               GH_TOKEN: ${{ secrets.GH_TOKEN }}
             run: |
               git config --global user.name "github-actions"
-              git config --global user.email "github-actions@github.com"
-              git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git
-              git add dist/snake.svg
-              git commit -m "Generated Snake animation" || echo "No changes to commit"
-              git push
-          

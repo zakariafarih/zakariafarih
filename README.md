@@ -83,7 +83,9 @@
 ## 🎬 My YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Rubik Cube Solver - Kotlin Android Studio + LibGDX](https://ytcards.demolab.com/?id=Sp5_FrsRD1M&title=Rubik+Cube+Solver+-+Kotlin+Android+Studio+%2B+LibGDX&lang=en&timestamp=1738434833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rubik Cube Solver - Kotlin Android Studio + LibGDX")](https://www.youtube.com/watch?v=Sp5_FrsRD1M)
+[![Rubik Cube game and solver - Zakaria Farih](https://ytcards.demolab.com/?id=E0vRN0TTn1E&title=Rubik+Cube+game+and+solver+-+Zakaria+Farih&lang=en&timestamp=1738357348&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rubik Cube game and solver - Zakaria Farih")](https://www.youtube.com/watch?v=E0vRN0TTn1E)
+[![Spring Boot Blog Using Thymeleaf - Feature packed (Moderation, Chat, Tags, Replies, and much more)](https://ytcards.demolab.com/?id=l-FWfWd3yrA&title=Spring+Boot+Blog+Using+Thymeleaf+-+Feature+packed+%28Moderation%2C+Chat%2C+Tags%2C+Replies%2C+and+much+more%29&lang=en&timestamp=1738078561&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Spring Boot Blog Using Thymeleaf - Feature packed (Moderation, Chat, Tags, Replies, and much more)")](https://www.youtube.com/watch?v=l-FWfWd3yrA)
 <!-- END YOUTUBE-CARDS -->
 
 ###

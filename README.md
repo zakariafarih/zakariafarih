@@ -80,6 +80,13 @@
 
 ###
 
+## 🎬 My YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+###
+
 <div align="center">
     <a href="https://open.spotify.com/user/31jgwok6pi4tc6vuqpo45dbzrm64">
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jgwok6pi4tc6vuqpo45dbzrm64&count=5&unique=true&width=500" alt="Spotify Recently Played" />

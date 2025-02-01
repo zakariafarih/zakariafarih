@@ -3,11 +3,21 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <a href="https://www.youtube.com/@ZakFrankie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
+  </a>
+  <a href="https://www.instagram.com/zakariafarih142" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="mailto:zakariafarih142@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/zakariafarih/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/zakariafarih27/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
 </div>
 
 ###
@@ -64,15 +74,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AllMightyyyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=AllMightyyyy&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AllMightyyyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AllMightyyyy&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+  <img src="https://streak-stats.demolab.com?user=AllMightyyyy&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="150" alt="streak graph" width="1500"  />
 
 ###
 
 <div align="center">
     <a href="https://open.spotify.com/user/31jgwok6pi4tc6vuqpo45dbzrm64">
-      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jgwok6pi4tc6vuqpo45dbzrm64&count=5&unique=true&count=5&width=500" alt="Spotify Recently Played" />
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jgwok6pi4tc6vuqpo45dbzrm64&count=5&unique=true&width=500" alt="Spotify Recently Played" />
     </a>
 </div>  
 

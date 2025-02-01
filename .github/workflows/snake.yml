@@ -2,8 +2,8 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: # Allows manual trigger
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   generate:
@@ -17,12 +17,15 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: Commit and push
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add dist/snake.svg
-          git commit -m "Generated Snake animation" || echo "No changes to commit"
+          git add dist
+          git commit -m "Updated Snake animation" || echo "No changes to commit"
           git push

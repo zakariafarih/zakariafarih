@@ -3,8 +3,7 @@
 ###
 
 <div align="center">
-  
-  ## 🚀 My Portfolio  
+
   <a href="https://portfolio-eta-khaki-96.vercel.app/">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=50&lines=✨+Check+Out+My+Portfolio+Here!+🚀" alt="Portfolio Banner" />
   </a>

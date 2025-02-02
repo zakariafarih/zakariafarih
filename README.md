@@ -2,8 +2,8 @@
 
 ###
 
-#### VISIT MY PORTFOLIO And know more about me :D 
-https://portfolio-eta-khaki-96.vercel.app/
+## 🚀 My Portfolio
+[![Portfolio](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=50&lines=✨+Check+Out+My+Portfolio+Here!+🚀)](https://portfolio-eta-khaki-96.vercel.app/)
 
 <div align="center">
   <a href="https://www.youtube.com/@ZakFrankie" target="_blank">

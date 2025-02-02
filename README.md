@@ -2,10 +2,15 @@
 
 ###
 
-## 🚀 My Portfolio
-  [![Portfolio](https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=50&lines=✨+Check+Out+My+Portfolio+Here!+🚀)](https://portfolio-eta-khaki-96.vercel.app/)
-
 <div align="center">
+  
+  ## 🚀 My Portfolio  
+  <a href="https://portfolio-eta-khaki-96.vercel.app/">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=50&lines=✨+Check+Out+My+Portfolio+Here!+🚀" alt="Portfolio Banner" />
+  </a>
+  
+  <br /><br />
+  
   <a href="https://www.youtube.com/@ZakFrankie" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
   </a>
@@ -21,6 +26,7 @@
   <a href="https://www.facebook.com/zakariafarih27/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
   </a>
+
 </div>
 
 ###

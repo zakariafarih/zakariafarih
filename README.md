@@ -64,9 +64,9 @@ https://portfolio-eta-khaki-96.vercel.app/
 ###
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AllMightyyyy/AllMightyyyy/main/dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AllMightyyyy/AllMightyyyy/main/dist/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AllMightyyyy/AllMightyyyy/main/dist/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakariafarih/zakariafarih/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakariafarih/zakariafarih/main/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/zakariafarih/zakariafarih/main/dist/github-snake.svg" />
   </picture>
 
 ###
@@ -76,10 +76,10 @@ https://portfolio-eta-khaki-96.vercel.app/
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AllMightyyyy&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AllMightyyyy&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariafarih&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariafarih&locale=en&hide_title=false&layout=compact&card_width=120&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-  <img src="https://streak-stats.demolab.com?user=AllMightyyyy&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="150" alt="streak graph" width="1500"  />
+  <img src="https://streak-stats.demolab.com?user=zakariafarih&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=6" height="150" alt="streak graph" width="1500"  />
 
 ###
 
@@ -102,7 +102,7 @@ https://portfolio-eta-khaki-96.vercel.app/
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/AllMightyyyy/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/zakariafarihy/count.svg?"  />
 </div>
 
 ###

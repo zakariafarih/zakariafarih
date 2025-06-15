@@ -89,12 +89,12 @@
 ## 🎬 My YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![MDental Demo - First project overview](https://ytcards.demolab.com/?id=MIIWdX3srrU&title=MDental+Demo+-+First+project+overview&lang=en&timestamp=1749916027&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "MDental Demo - First project overview")](https://www.youtube.com/watch?v=MIIWdX3srrU)
 [![Random part of SAM](https://ytcards.demolab.com/?id=kCvUdfl1koQ&title=Random+part+of+SAM&lang=en&timestamp=1747155921&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Random part of SAM")](https://www.youtube.com/watch?v=kCvUdfl1koQ)
 [![SAM Manager](https://ytcards.demolab.com/?id=IK4AOEd27hA&title=SAM+Manager&lang=en&timestamp=1747155650&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SAM Manager")](https://www.youtube.com/watch?v=IK4AOEd27hA)
 [![SAM Mobile - Digital Data Real Time](https://ytcards.demolab.com/?id=7daNWo0XKbM&title=SAM+Mobile+-+Digital+Data+Real+Time&lang=en&timestamp=1747155583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "SAM Mobile - Digital Data Real Time")](https://www.youtube.com/watch?v=7daNWo0XKbM)
 [![Planner SAM](https://ytcards.demolab.com/?id=M4fgEnAg2xQ&title=Planner+SAM&lang=en&timestamp=1747155506&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Planner SAM")](https://www.youtube.com/watch?v=M4fgEnAg2xQ)
 [![Chapter 1 Full overview - OCP Exam Preparation](https://ytcards.demolab.com/?id=ijMMyAA0j2s&title=Chapter+1+Full+overview+-+OCP+Exam+Preparation&lang=en&timestamp=1742243332&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Chapter 1 Full overview - OCP Exam Preparation")](https://www.youtube.com/watch?v=ijMMyAA0j2s)
-[![Odoo Custom module development ( Examen DAM Repaso )](https://ytcards.demolab.com/?id=Zdh_wrsZhHs&title=Odoo+Custom+module+development+%28+Examen+DAM+Repaso+%29&lang=en&timestamp=1740003174&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Odoo Custom module development ( Examen DAM Repaso )")](https://www.youtube.com/watch?v=Zdh_wrsZhHs)
 <!-- END YOUTUBE-CARDS -->
 
 ###
